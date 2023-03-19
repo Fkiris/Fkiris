@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatih
+- 👋 Hi, I’m @Fkiris (Fatih)
 - 👀 I’m interested in Finance, Programming
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on ...
